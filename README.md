@@ -1,0 +1,2 @@
+# notifyme
+Libnotify cli monitor
